@@ -1,0 +1,65 @@
+[
+    {
+        "name": "big mac",
+        "energy": 5,
+        "fat": 7,
+        "protein": 56,
+        "carbohydrates": 200,
+        "sugar": 30,
+        "sodium": 20
+    },
+    {
+        "name": "small mac",
+        "energy": 10,
+        "fat": 14,
+        "protein": 65,
+        "carbohydrates": 300,
+        "sugar": 40,
+        "sodium": 25
+    },
+    {
+        "name": "xl mac",
+        "energy": 15,
+        "fat": 21,
+        "protein": 70,
+        "carbohydrates": 400,
+        "sugar": 50,
+        "sodium": 30
+    },
+    {
+        "name": "xxl mac",
+        "energy": 20,
+        "fat": 23,
+        "protein": 78,
+        "carbohydrates": 500,
+        "sugar": 60,
+        "sodium": 35
+    },
+    {
+        "name": "noodles",
+        "energy": 120,
+        "fat": 25,
+        "protein": 12,
+        "carbohydrates": 1,
+        "sugar": 6,
+        "sodium": 23
+    },
+    {
+        "name": "Donut",
+        "energy": 100,
+        "fat": 80,
+        "protein": 60,
+        "carbohydrates": 40,
+        "sugar": 20,
+        "sodium": 10
+    },
+    {
+        "name": "pasta",
+        "energy": 105,
+        "fat": 75,
+        "protein": 65,
+        "carbohydrates": 50,
+        "sugar": 30,
+        "sodium": 15
+    }
+]
